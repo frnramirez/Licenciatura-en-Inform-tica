@@ -4,6 +4,9 @@
 - [Entrevistas](#entrevistas)
     - [Parte II Situaciones](#parte-ii-situaciones)
     - [Parte II Problemas](#parte-ii-problemas)
+- [Cuestionarios](#cuestionarios)
+    - [Parte I Definiciones](#parte-i-definiciones)
+    - [Parte II Situaciones](#parte-ii-situaciones-1)
 
 
 ## Entrevistas
@@ -66,3 +69,45 @@
 - Primero que nada, tomar las riendas de la entrevista, no deberia dejar que se desperdicie el tiempo en una platica irrelevante. Centrarse en las preguntas que ha preparado para la entrevista. Por ultimo practicar antes de encontrarse con el entrevistado.
 
 ### Parte II Problemas
+
+### Problema 1
+
+**Preparar una entrevista para obtener los requerimientos del siguiente problema:**
+
+***Se desea desarrollar un sistema que permita compartir un vehículo para un viaje. La idea es que cuando una persona tiene que realizar un viaje lo publique en la aplicación. Luego el resto de los usuarios se postulan para acompañarla y el chofer podrá seleccionar quienes viajan. El objetivo es abaratar costos y evitar congestiones en el tránsito***
+
+- <font color='red'>Resolver</font>
+
+### Problema 2
+
+**Preparar una entrevista para obtener los requerimientos del siguiente problema:**
+
+***CookBooks es un negocio pequeño manejado por una pareja jubilada. Hasta este momento, Cookbooks ha vendido sus libros sólo a través de pedidos por correo. Los dueños ahora quieren desarrollar un sistema en línea para vender libros de cocina difíciles de conseguir y agotados a través de internet.  
+Los visitantes podrán hojear diferentes libros de cocina, pero tendrán que crear una cuenta del cliente antes de poder hacer una compra. Los pagos se aceptarán sólo en línea con una tarjeta de crédito reconocida.***
+
+- <font color='red'>Resolver</font>
+
+## Cuestionarios
+
+### Parte I Definiciones
+
+**1) Describir qué tipo de información se busca mediante la aplicación de cuestionarios.**
+
+- Los cuestionarios son una herramienta clave para recopilar información estructurada y estandarizada en diversos contextos.
+
+**2) Describir bajo qué circunstancia considera apropiado utilizar cuestionarios**
+
+- Cuando se necesita obtener informacion de una gran cantidad de personaes el cuestionario resulta lo mas util. Este formato ademas da anonimato a los participantes por lo tanto las respuestras podrian llegar a ser mas sinceras.
+
+**3) Describir los dos tipos de cuestionarios.**
+- Los dos tipos de cuestionarios que hay son el estructurado y no estructurado:
+    - Estructurado: Las preguntas tiene respuestas de si/no o multiple choice. Su analisis es rapido.
+    - No estructurado: Propone preguntas de respuesta libre y detallada. Al utilizar este tipo de preguntas el analisis de los cuestionarios es mas tardio.
+
+### Parte II Situaciones
+### Situacion 1
+
+***Alguien nuevo en el centro de cómputo de un gimnasio que tiene varias sucursales, viene con muchas ganas de mejorar las cosas que ve dentro del mismo. Dicho centro está desarrollando un sistema en red que usarán todas las sucursales.***
+
+**Dado el siguiente cuestionario verifique si es necesario reescribir las preguntas, justificar.**
+![alt text](cuestionario1.png)
